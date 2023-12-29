@@ -2,9 +2,8 @@
 </br>
 
  <div>
-  <a href="https://github.com/neeramrutia">
    <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neeramrutia&layout=compact&langs_count=16&theme=dracula"/>
-  [![Neer's GitHub stats](https://github-readme-stats.vercel.app/api?username=neeramrutia)](https://github.com/neeramrutia/github-readme-stats)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 </div>
  
  ## Skills

@@ -1,9 +1,9 @@
 ## Hi, I am Neer Amrutia! 
 </br>
 
- <div>
+ <div align="center">
    <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neeramrutia&layout=compact&langs_count=16&theme=dracula"/>
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+  <img align="center" height="170" src="https://github-readme-stats.vercel.app/api?username=neeramrutia&show_icons=true&theme=transparent&show=reviews"/>
 </div>
  
  ## Skills

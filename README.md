@@ -4,7 +4,7 @@
  <div>
   <a href="https://github.com/neeramrutia">
    <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neeramrutia&layout=compact&langs_count=16&theme=dracula"/>
-  [![Neer's GitHub stats](https://github-readme-stats.vercel.app/api?username=neeramrutia)](https://github.com/anuraghazra/github-readme-stats)
+  [![Neer's GitHub stats](https://github-readme-stats.vercel.app/api?username=neeramrutia)](https://github.com/neeramrutia/github-readme-stats)
 </div>
  
  ## Skills
